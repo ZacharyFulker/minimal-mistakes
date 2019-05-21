@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Brennan Klein:
+  name        : "Brennan Klein"
+  bio         : "PhD Student, Network Science, Northeastern University"
+  avatar      : "/assets/images/brennan_icon.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.jkbrennan.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jkbren"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jkbren"
